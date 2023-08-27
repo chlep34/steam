@@ -65,7 +65,7 @@ const VIDEOS = [
 ]
 
 const FILE_DOWNLOADS = [
-  'misiunia.jpg',
+  'pic-of-a-big-black-dick.jpg',
   'miska1.jpg',
   'miska2.jpg',
   'miska3.jpg',
