@@ -58,10 +58,10 @@ const SEARCHES = [
 ]
 
 const VIDEOS = [
-  'Ballin.mp4',
-  'iphone.mp4',
-  'halflife.mp4',
-  'wiesia.mp4'
+  'nig1.mp4',
+  'nig2.mp4',
+  'nig3.mp4',
+  'nig4.mp4'
 ]
 
 const FILE_DOWNLOADS = [
